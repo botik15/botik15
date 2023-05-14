@@ -41,28 +41,74 @@
 
 ### 💻 Технологии:
 
-<div>
+<!--веб  -->
+<div> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp   
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass/scss" alt="sass/scss" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="php" alt="php" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="nginx" alt="nginx" width="40" height="40"/>&nbsp;   
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="django" alt="django" width="40" height="40"/>&nbsp;  
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;    
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;    
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;    
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;    
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;  
+</div>
+
+
+<!--администрирование  -->
+<div>   
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" title="bash" alt="bash" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original.svg" title="ssh" alt="ssh" width="40" height="40"/>&nbsp;  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;  
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original.svg" title="ssh" alt="ssh" width="40" height="40"/>&nbsp;  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original.svg" title="ssh" alt="ssh" width="40" height="40"/>&nbsp;  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original.svg" title="ssh" alt="ssh" width="40" height="40"/>&nbsp;  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original.svg" title="ssh" alt="ssh" width="40" height="40"/>&nbsp;  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original.svg" title="ssh" alt="ssh" width="40" height="40"/>&nbsp;  
+</div>
+
+<!--языки и бд -->
+<div> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title="python" alt="python" width="40" height="40"/>&nbsp;  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>&nbsp;   
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp;  
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-plain.svg" title="sqlite" alt="sqlite" width="40" height="40"/>&nbsp;  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-plain.svg" title="sqlite" alt="sqlite" width="40" height="40"/>&nbsp;  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-plain.svg" title="sqlite" alt="sqlite" width="40" height="40"/>&nbsp;  
+</div>
+
+
+<!--библиотеки  -->
+<div>   
+  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="selenium" alt="selenium" width="40" height="40"/>&nbsp;  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="qt" alt="qt" width="40" height="40"/>&nbsp;  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-plain-wordmark.svg" title="pytest" alt="pytest" width="40" height="40"/>&nbsp;  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-plain.svg" title="sqlite" alt="sqlite" width="40" height="40"/>&nbsp;  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-plain.svg" title="sqlite" alt="sqlite" width="40" height="40"/>&nbsp;  
 </div>
 
 ---
 
 ### 🛠 Инструменты:
 
-<div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" title="DaVinci Resolve" alt="DaVinci Resolve" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="canva" alt="canva" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/YouTube_Logo_%282013-2017%29.svg" title="YouTube" alt="YouTube" width="40" height="40"/>&nbsp;
+<div> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;  
   <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="raspberrypi" alt="raspberrypi" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-plain.svg" title="pycharm" alt="pycharm" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="visualstudio" alt="visualstudio" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-plain-wordmark.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Breezeicons-apps-48-sublime-text.svg/1024px-Breezeicons-apps-48-sublime-text.svg.png" title="sublime" alt="sublime" width="40" height="40"/>&nbsp;
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-plain.svg" title="pycharm" alt="pycharm" width="40" height="40"/>&nbsp;
+  
 </div>
 
 ---
