@@ -12,8 +12,8 @@
 - :seedling: Учу 
 
 - :zap: Являюсь старшим студентом на курсе Веб-разработки Яндекс Практикум.
-
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/f1llzzz) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alexeyf08@gmail.com) -->
+-->
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-ibotik-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ibotik)  
 
 ---
 
@@ -82,10 +82,7 @@
 | practicum.yandex/Факультет Веб разработки                       | 05/2022 - xx/2023 |
 
 --- -->
-
-### 💻 Codewars:
-
-![codewars](https://www.codewars.com/users/FilimonovAlexey/badges/large)
+ 
 
 ### ⚙️ GitHub статистика:
 
