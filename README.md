@@ -62,7 +62,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-plain-wordmark.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Breezeicons-apps-48-sublime-text.svg/1024px-Breezeicons-apps-48-sublime-text.svg.png"
   <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="qt" alt="qt" width="40" height="40"/>&nbsp;   
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;    height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;     
   
 </div>
 
